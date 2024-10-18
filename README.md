@@ -5,10 +5,11 @@
 - 모두 본인이 오프라인 업무분석 후 데이터 필드구성 및 코딩
 
 #### 주요직무 Keyword :
-- 정보화기획 (PI/BPR/ISP)
 - 정보시스템 구축 (PMO)
+- 정보화기획 (PI/BPR/ISP)
 - HW/SW 인프라 설계(TA/AA)
-- 데이터분석 및 시각화 (Data analyze)
+- SW 제품공급/맞춤화 (G2B, B2B Sales/Proposal/Customizing)
+- 데이터분석/시각화 (Data analyze/Dashboard Cretion)
 
 ##### 업무상메일 :
  - kyus.docs@gmail.com
