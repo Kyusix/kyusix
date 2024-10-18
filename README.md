@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+업무 간 생성한 jQuery 소스코드 및 Tabluau 계산식 공유하기 위한 참고용 Gitgub 입니다.
+
+- 보안 상의 이유로 공개 가능한 수준의 순수코드를 .txt 파일로 저장 업로드
+
 <!--
 **Kyusix/kyusix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
