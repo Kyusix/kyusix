@@ -7,7 +7,7 @@
 #### 주요직무 Keyword :
 - 정보시스템 구축 (PMO)
 - 정보화기획 (PI/BPR/ISP)
-- HW/SW 인프라 설계(TA/AA)
+- HW/SW 인프라 설계 (TA/AA)
 - SW 제품공급/맞춤화 (G2B, B2B Sales/Proposal/Customizing)
 - 데이터분석/시각화 (Data analyze/Dashboard Cretion)
 
