@@ -4,20 +4,20 @@
 - 보안 상의 이유로 공개 가능한 수준의 순수코드를 화면 이미지와 함께 업로드
 - 모두 본인이 오프라인 업무분석 후 데이터 필드구성 및 코딩
 
-#### 주요직무 Keyword :
+#### 직무분야 Keyword :
 - 정보시스템 구축 (PMO)
 - 정보화기획 (PI/BPR/ISP)
 - HW/SW 인프라 설계 (TA/AA)
 - SW 제품공급/맞춤화 (G2B, B2B Sales/Proposal/Customizing)
 - 데이터분석/시각화 (Data analyze/Dashboard Cretion)
 
-##### 업무상메일 :
- - kyus.docs@gmail.com
-
-##### Repositories 설명 :
+#### Repositories 설명 :
  - appoval : 그룹웨어 전자결재 모듈 내 동작 jQuery 소스코드 (사용툴 - form Designer Tool, 웹스크립트에디터) 
  - Smartwork : 전사 내부업무(영업관리,계약관리,인력관리,자원관리) 전용 jQuery 소스코드 (사용툴 - GW UI/UX Tool, 웹스크립트에디터)
  - Tableau-Calculation : 데이터 전처리 및 대시보드 구축용 각종 계산식 코드 (사용툴 - Prepbuilder, Tableau Desktop)
+
+##### 업무상메일 :
+ - kyus.docs@gmail.com
  
 ##### 감사합니다.
 
