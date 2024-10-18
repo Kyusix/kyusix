@@ -14,6 +14,11 @@
 ##### 업무상메일 :
  - kyus.docs@gmail.com
 
+##### Repositories 설명 :
+ - appoval : 그룹웨어 전자결재 모듈 내 동작 jQuery 소스코드 (사용툴 - form Designer Tool, 웹스크립트에디터) 
+ - Smartwork : 전사 내부업무(영업관리,계약관리,인력관리,자원관리) 전용 jQuery 소스코드 (사용툴 - GW UI/UX Tool, 웹스크립트에디터)
+ - Tableau-Calculation : 데이터 전처리 및 대시보드 구축용 각종 계산식 코드 (사용툴 - Prepbuilder, Tableau Desktop)
+ 
 ##### 감사합니다.
 
 <!--
