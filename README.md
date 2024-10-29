@@ -8,8 +8,8 @@
 - 정보시스템 구축 (PMO)
 - 정보화기획 및 IT거버넌스 수립 (PI / BPR / ISP / IT Governance)
 - HW / SW / Solution 인프라 설계 (TA / AA / SA)
-- SW 제품공급/맞춤화 (G2B, B2B Sales / Proposal / Customizing)
-- 데이터분석/시각화 (Data analyze / Dashboard Cretion)
+- SW 제품공급 / 맞춤화 (G2B, B2B Sales / Proposal / Customizing)
+- 데이터분석 / 시각화 (Data analyze / Dashboard Cretion)
 
 ##### 업무상메일 :
  - kyus.docs@gmail.com
